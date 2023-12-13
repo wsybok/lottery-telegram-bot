@@ -341,7 +341,7 @@ bot.polling(none_stop=True)
 # @server.route("/")
 # def webhook():
 #     bot.remove_webhook()
-#     bot.set_webhook(url='https://obscure-island-36357.herokuapp.com/' + token)
+#     bot.set_webhook(url='https://tglotterybot-ca6f062ba88d.herokuapp.com/' + token)
 #     return "Lucky Draw Bot Active!", 200
 
 # if __name__ == "__main__":
